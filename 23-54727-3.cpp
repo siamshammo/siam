@@ -1,7 +1,7 @@
 #include <iostream>
-using namespace std;
 
-void merge(int A[], int left, int mid, int right)
+
+ merge(int A[], int left, int mid, int right)
 {
     int n1 = mid - left + 1;
     int n2 = right - mid;

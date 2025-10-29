@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std;
+
+
 
 void merge(int A[], int left, int mid, int right) {
     int n1 = mid - left + 1;
